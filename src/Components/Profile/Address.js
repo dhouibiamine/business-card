@@ -3,7 +3,13 @@ import React from 'react'
 export default function Address() {
     return (
         <div className="Adress">
-            <p>dhouibiaminee9735@gmail.com</p>
+            <p>amine.dhouibi@polytechnicien.tn
+        <p>Student at Polytechnique sousse</p><p>web developer</p>
+        </p>
+            
+            
         </div>
+        
+        
     )
 }
